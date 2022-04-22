@@ -12,7 +12,7 @@
  
  
  
- # Install dependencies and run kage
+ # Install dependencies and run backdoor
  
  cd Backdoor
  
